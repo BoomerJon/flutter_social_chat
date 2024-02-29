@@ -12,7 +12,7 @@ import file_selector_macos
 import firebase_auth
 import firebase_core
 import firebase_storage
-import path_provider_macos
+import path_provider_foundation
 import photo_manager
 import share_plus_macos
 import sqflite
